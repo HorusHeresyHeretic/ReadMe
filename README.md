@@ -1,5 +1,7 @@
 # ReadMe
 
+Закладки из браузера за 2017 год в относительно хронологическом порядке по Python.
+
 Если что - я справа, но всё это читал и вам советую http://coub.com/view/xjqkp 
 
 Список годных материалов для чтения и саундтрек http://coub.com/view/x7kw4
@@ -197,9 +199,6 @@ https://habrahabr.ru/company/ods/blog/322534/
 
 Рори одобряет http://coub.com/view/cgkmg
 
+Я хочу обратно в волшебный мир аниме..
 
-
-
-
-
-
+http://coub.com/view/xiulz
