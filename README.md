@@ -88,7 +88,7 @@
 
 *Предпологаеться хотя бы иногда подглядывать в тот или иной мануала за вопросом "как сделать" прежде чем искать готовый ответ в google, кстати, достаточно часто его там нет. Его там нет не потому что его нет - нет няши, всё проще, его там нет потому, что ответ на вопрос будет звучать так:* **RTFM**. 
 
-# Часть 5. Вспоминаем математику.
+# Часть 4. Вспоминаем математику.
 
 *Если часть 3 носит относительно обзорный характер материалов, которыми вы будете пользоваться несколько лет, то эта часть более важна. Богом математики быть не обязательность, но разруха в голове должны быть на уровне: мне известна разница между корреляцией по Пирсону и по Спирману и один из этих методов является для меня более предпочтительным. Лично я всегда любил ранговую корреляцию и все свои модели приводил именно к ней.*
 
@@ -100,7 +100,7 @@
 
 *В теории, нужно хотя бы запомнить что между 1 и 0 есть 0.25, 0.5 и 0.75.* 
 
-# Часть 6. Пробуем читать про t-SNE.
+# Часть 5. Пробуем читать про t-SNE.
 
 *Второй урок учебного курса ODS наглядно демонстрирует один из методов построения t-SNE представления. Забегая вперёд могу сказать - что, эта штука такая же полезная как и весь остальной "machine learning" и такой вариант, как "потратить пару лет только на изучение t-SNE вполне уместен. Например, если овладеть одним из методов, можно сразу идти устраиваться работать с поисковыми системами*.
 
@@ -117,43 +117,36 @@
 
 *Как минимум это 14(12) GB Ram и разлоченный 4170 quad-core*
 
-Часть 7. Возвращаемся к части 2 с новыми знаниями.
+# Часть 6. Возвращаемся к части 2 с новыми знаниями.
 
-https://docs.scipy.org/doc/scipy-0.19.0/reference/generated/scipy.stats.spearmanr.html
+*Вот теперь, можно вернуться к началу учебного курса ODS и попробовать самостоятельно провести анализ данных из первой части курса прежде чем отправляться в дебри machine learning. Так или иначе вам потребуется способность формировать оценочное суждение о данных с которыми вы работаете прежде чем строить вокруг них лес решений.*
 
-https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+**Бонус для облегчения процесса.**
 
-https://pandas.pydata.org/pandas-docs/stable/generated/pandas.melt.html
+1. [Ранговая](https://docs.scipy.org/doc/scipy-0.19.0/reference/generated/scipy.stats.spearmanr.html) корреляция.
+2. Полезная подборка [годноты](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks).
+3. [Функция](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.melt.html), которую нужно выучить. 
+4. Это не баг - это [фича](https://habrahabr.ru/post/279665/) статистики. 
+5. Если вы до сих пор читали по [диагонали](http://pandas.pydata.org/pandas-docs/stable/search.html?q=describe&check_keywords=yes&area=default). 
+6. [Возможности](https://www.jetbrains.com/help/pycharm/viewing-as-array-or-dataframe.html) PyCharm в сочетании с Pandas.
+7. Полезный [раздел](https://pandas.pydata.org/pandas-docs/stable/computation.html) мануала Pandas в области статистики.
+8. Важно знать что Pandas [самостоятельно](https://pandas.pydata.org/pandas-docs/stable/timeseries.html) работает с датами.
 
-https://habrahabr.ru/post/279665/
+# Часть 8. Знакомство с Machine Learning.
 
-http://pandas.pydata.org/pandas-docs/stable/search.html?q=describe&check_keywords=yes&area=default
+*Серия полезных материалов для ознакомления с предметной областью machine learning*. 
 
-( для тех кто любит pycharm https://www.jetbrains.com/help/pycharm/viewing-as-array-or-dataframe.html )
+1. Обзорная [статья](https://habrahabr.ru/company/mlclass/blog/247751/).
+2. Источник [годноты](https://habrahabr.ru/company/mailru/blog/334960/#stati) ODS.
+3. Строим [первый](https://habrahabr.ru/company/ods/blog/322534/) лес решений.
+4. Ломаем голову над [математикой](https://habrahabr.ru/company/ods/blog/322076/).
+5. Поучительный пример [построения](https://habrahabr.ru/post/327072/) прогноза.
+6. Ещё один [хороший пример](https://habrahabr.ru/post/266639/) и набор данных для тренировки.
+7. [Лекция](http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html) про то - что такое **Churn** и почему он именно такой.
 
-https://pandas.pydata.org/pandas-docs/stable/computation.html
+# Часть 8. [Ну, типа учебный курс udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
 
-https://pandas.pydata.org/pandas-docs/stable/timeseries.html
 
-Часть 7. Занкомство с Machine Learning.
-
-https://habrahabr.ru/company/mlclass/blog/247751/
-
-https://habrahabr.ru/company/mailru/blog/334960/#stati
-
-https://habrahabr.ru/company/ods/blog/322534/
-
-https://habrahabr.ru/company/ods/blog/322076/
-
-https://habrahabr.ru/post/327072/
-
-https://habrahabr.ru/post/266639/
-
-http://blog.yhat.com/posts/predicting-customer-churn-with-sklearn.html
-
-Часть 8. Ну, типа учебный курс..
-
-https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 
 Часть 9. Хаппиенда не будет.
 
