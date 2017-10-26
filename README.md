@@ -54,29 +54,16 @@
 
 # Часть 3. Разбираемся как работает часть 2.
 
-https://khashtamov.com/ru/pandas-introduction/
+*Загляенм в оф.док по Pandas и познакомимся со средствами визуаллизации* 
 
-http://playittodeath.ru/анализ-данных-при-помощи-python-графики-в-pandas/
-
-https://pandas.pydata.org/pandas-docs/stable/visualization.html
-
-http://pandas.pydata.org/pandas-docs/version/0.20/indexing.html
-
-http://pandas.pydata.org/pandas-docs/version/0.19.2/10min.html?highlight=bool#boolean-indexing
-
-http://pandas.pydata.org/pandas-docs/version/0.19.2/generated/pandas.DataFrame.apply.html?highlight=apply
-
-http://pandas.pydata.org/pandas-docs/stable/api.html#binary-operator-functions
-
-http://pandas.pydata.org/pandas-docs/version/0.18.1/generated/pandas.pivot_table.html
-
-https://pythonworld.ru/novosti-mira-python/scientific-graphics-in-python.html
-
-https://tomaugspurger.github.io/modern-6-visualization.html
-
-для любителей Excel
-
-https://habrahabr.ru/company/otus/blog/331998/
+1. [Визуализация](http://playittodeath.ru/анализ-данных-при-помощи-python-графики-в-pandas/) данных с помощью Pandas и matplotlib. 
+2. Более подробно о [визуализации](http://pandas.pydata.org/pandas-docs/version/0.20/indexing.html) данных с помощью Pandas.  
+3. Процедура логической индексации данных в Pandas - [кратко](http://pandas.pydata.org/pandas-docs/version/0.19.2/10min.html?highlight=bool#boolean-indexing). 
+4. [Мануал](http://pandas.pydata.org/pandas-docs/stable/api.html#api-reference) Pandas, в которой рекомендуется хоть иногда заглядывать.
+5. Хорошая иллюстрация возможностей [конструктора](http://pandas.pydata.org/pandas-docs/version/0.18.1/generated/pandas.pivot_table.html) сводных таблиц.   
+6. Хороший и наглядный мануал по научной графике в исполнении [matplotlib](https://pythonworld.ru/novosti-mira-python/scientific-graphics-in-python.html). 
+7. [Архив](https://tomaugspurger.github.io/modern-6-visualization.html), который описывает возможности других библиотек в отношении графики в Pandas. 
+8. На случай, если происходящее как то будет связано с [Excel](https://habrahabr.ru/company/otus/blog/331998/) без участия Pandas, хотя Pandas умеет в Excel.
 
 Часть 4. Разбираемся с чем работает часть 2.
 
