@@ -54,7 +54,7 @@
 
 # Часть 3. Разбираемся как работает часть 2.
 
-*Загляенм в оф.док по Pandas и познакомимся со средствами визуаллизации* 
+*Заглянем в оф.док по Pandas и познакомимся со средствами визуаллизации* 
 
 1. [Визуализация](http://playittodeath.ru/анализ-данных-при-помощи-python-графики-в-pandas/) данных с помощью Pandas и matplotlib. 
 2. Более подробно о [визуализации](http://pandas.pydata.org/pandas-docs/version/0.20/indexing.html) данных с помощью Pandas.  
@@ -65,39 +65,26 @@
 7. [Архив](https://tomaugspurger.github.io/modern-6-visualization.html), который описывает возможности других библиотек в отношении графики в Pandas. 
 8. На случай, если происходящее как то будет связано с [Excel](https://habrahabr.ru/company/otus/blog/331998/) без участия Pandas, хотя Pandas умеет в Excel.
 
-Часть 4. Разбираемся с чем работает часть 2.
+*Заглянем на оф.сайт [Анаконды](https://www.anaconda.com/download/) и найдём [мануал по ней](https://docs.anaconda.com/anaconda/user-guide/tasks/integration/)*
 
-https://www.anaconda.com/download/
+*Режим читов - тетрадка Юпитер*
 
-https://docs.anaconda.com/anaconda/user-guide/tasks/integration/
+1. Сайт проекта [Юпитер](http://jupyter.org).
+2. [Введение](https://www.openfablab.org/play/default/showtask/196) в тетрадку Юпитер.
+3. Второй полезный [tutorial](https://github.com/DonJayamanne/pythonVSCode/wiki/Jupyter:-Getting-Started) по тетрадке. 
+4. Это не баг - а фича! [сборник](https://habrahabr.ru/company/wunderfund/blog/316826/) особенностей тетрадки.
 
-Режим читов - тетрадка Юпитер.
+**IPython**
 
-http://jupyter.org
+1. [Исходник](https://pypi.python.org/pypi/ipython/6.0.0)
+2. [Инструкция](http://ipython.org/ipython-doc/dev/interactive/tutorial.html) 
 
-https://www.openfablab.org/play/default/showtask/196
+**Либы**
 
-https://github.com/DonJayamanne/pythonVSCode/wiki/Jupyter:-Getting-Started
-
-https://habrahabr.ru/company/wunderfund/blog/316826/
-
-IPython
-
-https://pypi.python.org/pypi/ipython/6.0.0
-
-http://ipython.org/ipython-doc/dev/interactive/tutorial.html
-
-Либы
-
-https://plot.ly/python/
-
-http://seaborn.pydata.org/index.html
-
-https://docs.scipy.org/doc/numpy/reference/
-
-http://scikit-learn.org/stable/tutorial/basic/tutorial.html
-
-https://pythonworld.ru/novosti-mira-python/scientific-graphics-in-python.html
+1. [Plotly](https://plot.ly/python/) - интерактивные HTML графики и красота.  
+2. [Seaborn](http://seaborn.pydata.org/index.html) - основной инструмент визуального анализа.
+3. [NumPy](https://docs.scipy.org/doc/numpy/reference/) -  инструкция к математическому аппарату происходящего.
+4. [Scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html) - инструкция к библиотеки про machine learning, сложная. 
 
 Часть 5. Вспоминаем математику.
 
