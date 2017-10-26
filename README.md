@@ -12,21 +12,21 @@
 2. Самый первый полезный [учебник с задачами](http://younglinux.info/sites/default/files/python_structured_programming.pdf) которые можно и нужно решить.
 3. Разбираемся с первыми *трудными* вопросами из учебника и переходим к Лутцу.
 
-  [Типы данных](http://pythonicway.com/python-data-types)  
+ * [Типы данных](http://pythonicway.com/python-data-types)  
   
-  [Инструкция if-elif-else](https://pythonworld.ru/osnovy/instrukciya-if-elif-else-proverka-istinnosti-trexmestnoe-vyrazhenie-ifelse.html)
+ * [Инструкция if-elif-else](https://pythonworld.ru/osnovy/instrukciya-if-elif-else-proverka-istinnosti-trexmestnoe-vyrazhenie-ifelse.html)
   
-  [Встроенные функции языка](https://pythonz.net/references/named/vstroennye-fynktsii/)
+ * [Встроенные функции языка](https://pythonz.net/references/named/vstroennye-fynktsii/)
   
-  [Определение функций, основы](https://habrahabr.ru/post/30633/)
+ * [Определение функций, основы](https://habrahabr.ru/post/30633/)
   
-  [Алгоритмы вычисления чисел Фибоначчи](http://py-algorithm.blogspot.ru/2011/04/blog-post_04.html)
+ * [Алгоритмы вычисления чисел Фибоначчи](http://py-algorithm.blogspot.ru/2011/04/blog-post_04.html)
   
-  [Сборник решений задач по программированию](http://taskcode.ru)
+ * [Сборник решений задач по программированию](http://taskcode.ru)
   
-  [Использование регулярных выражений в Python](https://tproger.ru/translations/regular-expression-python/)
+ * [Использование регулярных выражений в Python](https://tproger.ru/translations/regular-expression-python/)
   
-  [Двумерные списки (массивы и матрицы) в Python](http://progras.ru/31-dvumernye-spiski-massivy-matricy-v-python/)
+ * [Двумерные списки (массивы и матрицы) в Python](http://progras.ru/31-dvumernye-spiski-massivy-matricy-v-python/)
   
   Несколько полезных уроков про модули в Python [раз](https://pep8.ru/doc/tutorial-3.1/6.html), [два](http://pythonicway.com/python-modules), [три](http://younglinux.info/oopython/module.php).
   
@@ -98,31 +98,24 @@
 4. [Серия](http://math-info.hse.ru/2014-15/Компьютерные_инструменты_обработки_данных) поучительный лекция про [инструменты](http://math-hse.info/a/2014-15/nes-stat/lectures/lecture15.html) анализа. 
 5. [Отличный материал](http://playittodeath.ru/анализ-данных-при-помощи-python-основные-ст-2/) по анализу статистических данных в Pandas 
 
-*В теории, нужно хотя бы запомнить что между 1 и 0 есть 0.25, 0.5 и .075.* 
+*В теории, нужно хотя бы запомнить что между 1 и 0 есть 0.25, 0.5 и 0.75.* 
 
-Часть 6. Пробуем читать про t-SNE.
+# Часть 6. Пробуем читать про t-SNE.
 
-http://datareview.info/article/algoritm-t-sne-illyustrirovannyiy-vvodnyiy-kurs/
+*Второй урок учебного курса ODS наглядно демонстрирует один из методов построения t-SNE представления. Забегая вперёд могу сказать - что, эта штука такая же полезная как и весь остальной "machine learning" и такой вариант, как "потратить пару лет только на изучение t-SNE вполне уместен. Например, если овладеть одним из методов, можно сразу идти устраиваться работать с поисковыми системами*.
 
-( причина - по которой нужно уметь в t-sne и пандас https://habrahabr.ru/post/165001/ )
+1. Сложное, но очень хорошее [intro](http://datareview.info/article/algoritm-t-sne-illyustrirovannyiy-vvodnyiy-kurs/).
+2. [Инструкция](http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html) к этому празднику жизни. 
+3. [Причина](https://habrahabr.ru/post/165001/) - по которой нужно уметь в Pandas и t-SNE. 
+4. Техника [визуализации представления слов](https://habrahabr.ru/post/267041/) с помощью t-SNE. 
+5. [Сочетание возможностей t-SNE](https://habrahabr.ru/company/wunderfund/blog/326750/) в алгоритмами компьютерного зрения. 
+6. После чтения статьи про алгоритм Джонкера-Волгенанта советую посмотреть [сюда](https://distill.pub/2016/misread-tsne/).
+7. Пожалуй, самая важная ссылка раздела - [репозиторий](https://github.com/scikit-learn/scikit-learn/pull/4025) с кодом посвященный библиотеке scikit-learn.
+8. [Multicore t-SNE modification](https://github.com/DmitryUlyanov/Multicore-TSNE) - акутально, когда массив данных большой и интерпретатор  возвращают memory error.
 
-Знакомимся с возможностями t-SNE.
+*Эксперименты с датафреймами из первого и второго запуска учебного курса ODS в части t-SNE могут легко и красиво познакомить вас с пределом вычислительных мощностей вашего компьютера, даже если вы работаете с маленькими массивами вроде telecom churn.csv. В теории Multicore-t-SNE лучше работает с большим выборками, на практике t-SNE прожорлив в следствии большой вычислительной сложности. Скажем так - если дома калькулятор, можете забыть.*
 
-https://habrahabr.ru/post/267041/
-
-https://habrahabr.ru/company/wunderfund/blog/326750/
-
-http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
-
-http://scikit-learn.org/dev/modules/manifold.html#t-distributed-stochastic-neighbor-embedding-t-sne
-
-https://distill.pub/2016/misread-tsne/
-
-https://github.com/scikit-learn/scikit-learn/pull/4025
-
-Запоминаем что есть ещё Multicore t-SNE.
-
-https://github.com/DmitryUlyanov/Multicore-TSNE
+*Как минимум это 14(12) GB Ram и разлоченный 4170 quad-core*
 
 Часть 7. Возвращаемся к части 2 с новыми знаниями.
 
