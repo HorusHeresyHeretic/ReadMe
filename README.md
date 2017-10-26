@@ -1,8 +1,6 @@
 # ReadMe
 
-*Закладки из браузера за 2017 год в относительно хронологическом порядке по Python. Это всё, что нагулилось в процессе: никогда не программировал - относительно свободно изучаю учебные курсы сообщества ODS и пользуюсь Pandas и t-SNE.*
-
-Если что  - то как программист Python я [справа]( http://coub.com/view/xjqkp), но всё это читал и вам советую, годный [саундтрек](http://coub.com/view/x7kw4) для чтения прилагается. 
+*Закладки из браузера за 2017 год в относительно хронологическом порядке по Python. Это всё, что нагулилось в процессе: никогда не программировал - относительно свободно изучаю учебные курсы сообщества ODS и пользуюсь Pandas и t-SNE. Если что  - то как программист Python я [справа]( http://coub.com/view/xjqkp), но всё это читал и вам советую, годный [саундтрек](http://coub.com/view/x7kw4) для чтения прилагается.* 
 
 #Часть 1. До и после 4ого издания Лутца.
 
@@ -12,15 +10,24 @@
 
 1. Учимся пользоваться голым интерпретатором Python, [учимся печатать код](http://informatics.mccme.ru/mod/book/view.php?id=2301&chapterid=351)
 2. Самый первый полезный [учебник с задачами](http://younglinux.info/sites/default/files/python_structured_programming.pdf) которые можно и нужно решить.
-3. Разбираемся с первыми *трудными* вопросами из учебника и переходим к Лутцу. 
+3. Разбираемся с первыми *трудными* вопросами из учебника и переходим к Лутцу.
+
   [Типы данных](http://pythonicway.com/python-data-types)  
+  
   [Инструкция if-elif-else](https://pythonworld.ru/osnovy/instrukciya-if-elif-else-proverka-istinnosti-trexmestnoe-vyrazhenie-ifelse.html)
+  
   [Встроенные функции языка](https://pythonz.net/references/named/vstroennye-fynktsii/)
+  
   [Определение функций, основы](https://habrahabr.ru/post/30633/)
+  
   [Алгоритмы вычисления чисел Фибоначчи](http://py-algorithm.blogspot.ru/2011/04/blog-post_04.html)
+  
   [Сборник решений задач по программированию](http://taskcode.ru)
+  
   [Использование регулярных выражений в Python](https://tproger.ru/translations/regular-expression-python/)
+  
   [Двумерные списки (массивы и матрицы) в Python](http://progras.ru/31-dvumernye-spiski-massivy-matricy-v-python/)
+  
   Несколько полезных уроков про модули в Python [раз](https://pep8.ru/doc/tutorial-3.1/6.html), [два](http://pythonicway.com/python-modules), [три](http://younglinux.info/oopython/module.php).
   
 *Каждая из ссылок ведёт на разные ресурсы одинаковой полезности, там вы сможете найти ответы практически на любые вопросы, которые могут возникнуть у вас при  выполнении задач из учебника или чтении Лутца.*
