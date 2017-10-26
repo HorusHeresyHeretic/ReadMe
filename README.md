@@ -95,7 +95,7 @@
 1. Кратко про коэффициент корреляции [Пирсона](http://py-algorithm.blogspot.ru/2014/08/blog-post_10.html). 
 2. Про [математику](https://nahlogin.blogspot.ru/2016/01/pandas.html)  как часть визуального анализа. 
 3. Хорошая [шпаргалка](http://playittodeath.ru/shpargalka-po-statisticheskomy-analizu/) по статистическому анализу.  
-4. [Серия](http://math-info.hse.ru/2014-15/Компьютерные_инструменты_обработки_данных) поучительный лекция про [инструменты](http://math-hse.info/a/2014-15/nes-stat/lectures/lecture15.html) анализа. 
+4. [Серия](http://math-info.hse.ru/2014-15/Компьютерные_инструменты_обработки_данных) поучительных лекций про [инструменты](http://math-hse.info/a/2014-15/nes-stat/lectures/lecture15.html) анализа. 
 5. [Отличный материал](http://playittodeath.ru/анализ-данных-при-помощи-python-основные-ст-2/) по анализу статистических данных в Pandas 
 
 *В теории, нужно хотя бы запомнить что между 1 и 0 есть 0.25, 0.5 и 0.75.* 
