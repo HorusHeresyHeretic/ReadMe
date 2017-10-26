@@ -1,38 +1,33 @@
 # ReadMe
 
-Закладки из браузера за 2017 год в относительно хронологическом порядке по Python.
+*Закладки из браузера за 2017 год в относительно хронологическом порядке по Python. Это всё, что нагулилось в процессе: никогда не программировал - относительно свободно изучаю учебные курсы сообщества ODS и пользуюсь Pandas и t-SNE.*
 
-Если что - я справа, но всё это читал и вам советую http://coub.com/view/xjqkp 
+Если что  - то как программист Python я [справа]( http://coub.com/view/xjqkp), но всё это читал и вам советую, годный [саундтрек](http://coub.com/view/x7kw4) для чтения прилагается. 
 
-Список годных материалов для чтения и саундтрек http://coub.com/view/x7kw4
+#Часть 1. До и после 4ого издания Лутца.
 
-Часть 1. До и после 4ого издания Лутца.
+*Обычно, новичкам, которые "никогда не программировали" советую читать Лутца, но сам Лутц считает, что его книжка не зайдёт тем, у кого нет "минимальной базы". Я пробовал читать Лутца без базы в языке - дядька прав, прежде чем открыть 1200 страничный артефакт, содержащий свет истины - необходимо получить минимальный минимум.*
 
-http://informatics.mccme.ru/mod/book/view.php?id=2301&chapterid=351
+Выдержкам из первых глав Лутца посвящен отдельный [репозиторий](https://github.com/HorusHeresyHeretic/Learning-Python-from-zero). Для начала стоит немного потренироваться. 
 
-https://pythonworld.ru/osnovy/instrukciya-if-elif-else-proverka-istinnosti-trexmestnoe-vyrazhenie-ifelse.html
+1. Учимся пользоваться голым интерпретатором Python, [учимся печатать код](http://informatics.mccme.ru/mod/book/view.php?id=2301&chapterid=351)
+2. Самый первый полезный [учебник с задачами](http://younglinux.info/sites/default/files/python_structured_programming.pdf) которые можно и нужно решить.
+3. Разбираемся с первыми *трудными* вопросами из учебника и переходим к Лутцу. 
+  [Типы данных](http://pythonicway.com/python-data-types)
+  [Инструкция if-elif-else](https://pythonworld.ru/osnovy/instrukciya-if-elif-else-proverka-istinnosti-trexmestnoe-vyrazhenie-ifelse.html)
+  [Встроенные функции языка](https://pythonz.net/references/named/vstroennye-fynktsii/)
+  [Определение функций, основы](https://habrahabr.ru/post/30633/)
+  [Алгоритмы вычисления чисел Фибоначчи](http://py-algorithm.blogspot.ru/2011/04/blog-post_04.html)
+  [Сборник решений задач по программированию](http://taskcode.ru)
+  [Использование регулярных выражений в Python](https://tproger.ru/translations/regular-expression-python/)
+  [Двумерные списки (массивы и матрицы) в Python](http://progras.ru/31-dvumernye-spiski-massivy-matricy-v-python/)
+  Несколько полезных уроков про модули в Python [раз](https://pep8.ru/doc/tutorial-3.1/6.html), [два](http://pythonicway.com/python-modules), [три](http://younglinux.info/oopython/module.php).
+  
+*Каждая из ссылок ведёт на разные ресурсы одинаковой полезности, там вы сможете найти ответы практически на любые вопросы, которые могут возникнуть у вас при  выполнении задач из учебника или чтении Лутца.*
 
-https://pythonz.net/references/named/sum/
+В теории, достаточно один раз самостоятельно решить задачи из первого учебника и переходить к Лутцу, но, на практие есть один нюанс - меньшая половина того материала, который представлен выше, займёт в изложении Лутца страниц 300. 4-ое издание нужно читать (как минимум до 8-10 главы) поскольку Лутц позволяет сформировать восприятие о языке как о инструменте, которым вы собираетесь пользоваться. Но 1200 страниц без подготовки это очень долго.
 
-http://py-algorithm.blogspot.ru/2011/04/blog-post_04.html
-
-http://taskcode.ru/cycles/fibonacci
-
-http://pythonicway.com/education/basics/5-range
-
-http://younglinux.info/sites/default/files/python_structured_programming.pdf
-
-https://habrahabr.ru/post/30633/
-
-https://tproger.ru/translations/regular-expression-python/
-
-https://pep8.ru/doc/tutorial-3.1/6.html
-
-http://pythonicway.com/python-modules
-
-http://younglinux.info/oopython/module.php
-
-http://progras.ru/31-dvumernye-spiski-massivy-matricy-v-python/
+Поэтому, я рекомендую сразу пользоваться справочными материалами с этих ресурсов.
 
 Часть 2. Учимся полезному - изучаем Pandas.
 
