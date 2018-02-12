@@ -9,7 +9,7 @@
 Выдержкам из первых глав Лутца посвящен отдельный [репозиторий](https://github.com/HorusHeresyHeretic/Learning-Python-from-zero). Для начала стоит немного потренироваться. 
 
 1. Учимся пользоваться голым интерпретатором Python, [учимся печатать код](http://informatics.mccme.ru/mod/book/view.php?id=2301&chapterid=351)
-2. Самый первый полезный [учебник с задачами](http://younglinux.info/sites/default/files/python_structured_programming.pdf) которые можно и нужно решить.
+2. Самый первый полезный [учебник с задачами](http://younglinux.info/sites/default/files/pdf/python_structured_programming.pdf) которые можно и нужно решить.
 3. Разбираемся с первыми *трудными* вопросами из учебника и переходим к Лутцу.
 
  * [Типы данных](http://pythonicway.com/python-data-types)  
